@@ -1,6 +1,7 @@
 ### Hello World, I'm Suchitra  👋
 
 <!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
+<iframe align="right" src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
 
 
 ## I'm a Software Developer!!
