@@ -1,7 +1,7 @@
 ### Hello World, I'm Suchitra  👋
 
- <img align="right" alt="GIF" src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="500" height="320" />
-<!-- <iframe align="right" src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="320" frameBorder="0" class="giphy-embed"></iframe> -->
+ <img align="right" alt="GIF" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47fg8eewegjpagtetfbhctb1dv1jx3a9col52z0mc4&rid=giphy.gif&ct=g" width="500" height="320" />
+
 
 
 ## I'm a Software Developer!!
