@@ -4,7 +4,7 @@
 
 
 ## I'm a Software Developer!!
-- ✍ You can find my projects here [https://suchimohan.github.io/]
+- ✍ You can find my projects here [portfolio][https://suchimohan.github.io/]
 - 🌱 I have knowledge in React, Redux, Python and JavaScript.
 - 👯 I’m looking to collaborate on fullstack projects.
 - 😄 Pronouns: She/Her
